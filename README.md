@@ -6,6 +6,10 @@ Use Dart Documentation: Refer to the official Dart documentation for help with s
 Write Clean Code: Ensure your code is well-organized and easy to read. Use meaningful variable names and comments where necessary.
 Test Your Code: Test your functions and classes with different inputs to ensure they work as expected.
 
+**🚩Please remember the following:**
+- Each challenge should be placed in its own folder.
+- Push each challenge individually.
+
 ---
 ### 💡 Challenge 1: Recipe Manager 🥘
 Create a Dart program that uses a `Map` to manage recipes. Each recipe is stored with a name (String) as the key and a list of ingredients (List of Strings) as the value. Implement functions to:
